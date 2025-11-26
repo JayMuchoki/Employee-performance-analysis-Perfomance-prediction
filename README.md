@@ -1,4 +1,6 @@
 # 👥 **Employee Performance Analysis**
+![Optimiser votre portefeuille d&#39;investissement au Maroc 656671042](https://github.com/user-attachments/assets/0c5c823e-3977-4842-b88f-f804a06e6dfd)
+
 
 ## 📌 Project Overview
 

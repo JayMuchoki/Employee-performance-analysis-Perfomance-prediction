@@ -102,4 +102,4 @@ Key insights from the analysis:
 
 This project provides valuable insights into employee performance and builds predictive models that can assist HR teams in decision‑making. With additional features such as KPI metrics, department‑specific data, or time‑based performance tracking, the model can be further improved.
 
-Let me know if you'd like to add graphs, sample outputs, or a future‑work section!
+
